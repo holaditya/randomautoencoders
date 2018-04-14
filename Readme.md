@@ -1,2 +1,1 @@
-Implementation of Autoencoder based on Tensorflow
-
+Implementation of Autoencoder by using Tensorflow.
